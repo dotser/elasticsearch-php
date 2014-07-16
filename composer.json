@@ -1,5 +1,5 @@
 {
-  "name": "elasticsearch/elasticsearch",
+  "name": "dotser/elasticsearch",
   "description": "PHP Client for Elasticsearch",
   "keywords": ["search","client", "elasticsearch"],
   "type": "library",
@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "php": ">=5.3.9",
+    "php": ">=5.3.3",
     "monolog/monolog": "~1.5",
     "pimple/pimple": "~2.0",
     "guzzle/http": "~3.7",
